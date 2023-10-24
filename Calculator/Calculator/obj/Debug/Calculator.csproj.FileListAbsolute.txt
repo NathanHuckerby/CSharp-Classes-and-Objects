@@ -1,0 +1,11 @@
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\M2201453\OneDrive - Middlesbrough College\DP Y2\Programming (Trevor)\Visual Studio Work\Classes & Objects Exercises\New folder\Calculator\Calculator\obj\Debug\Calculator.pdb
